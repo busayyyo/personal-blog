@@ -1,2 +1,9 @@
+baseURL = "https://busayo.xyz/"
 languageCode = "en-us"
-title = "My New Netlify Victor Hugo Site"
+title = "Busayo Oyewole - Design, Code and Words"
+theme = "aether"
+brand = "Busayo's blog"
+description = "Design, code and words"
+homeimg = "URL to the image used for the home button at the bottom of each post - optional"
+bgimg = ""
+rssinmenu = true
