@@ -1,6 +1,6 @@
 baseurl = "https://busayo.xyz/"
 languageCode = "en-us"
-title = "UX_YZ"
+title = "Busayo Oyewole"
 author = "Busayo Oyewole"
 canonifyurls = true
 paginate = 3
@@ -10,5 +10,5 @@ theme = "aether"
 brand = "Busayo Oyewole"
 description = "Design, code and words"
 homeimg = "https://res.cloudinary.com/busayyyo/image/upload/v1570483412/blog/green-pattern-surface-131683.jpg"
-bgimg = "https://res.cloudinary.com/busayyyo/image/upload/v1570483607/blog/art-background-close-up-1939485.jpg"
+bgimg = "https://res.cloudinary.com/busayyyo/image/upload/v1570484496/blog/blog_bg.png"
 rssinmenu = true
