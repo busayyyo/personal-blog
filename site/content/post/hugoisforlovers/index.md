@@ -3,7 +3,7 @@ title = "Getting Started with Hugo"
 featuredImage = "img/andrew-neel-609846-unsplash.jpg"
 displayInMenu = false
 displayInList = true
-draft = false
+draft = true
 tags = [
     "go",
     "golang",

@@ -1,6 +1,5 @@
 baseurl = "https://busayo.xyz/"
 languageCode = "en-us"
-title = "Busayo Oyewole"
 author = "Busayo Oyewole"
 canonifyurls = true
 paginate = 3

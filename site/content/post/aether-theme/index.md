@@ -6,7 +6,7 @@ categories: ["Web"]
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: false
+draft: true
 resources:
 - name: featuredImage
   src: "mdd-macbook.jpg"

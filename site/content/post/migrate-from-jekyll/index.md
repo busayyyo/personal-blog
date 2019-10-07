@@ -2,7 +2,7 @@
 date: 2014-03-10
 displayInMenu: false
 displayInList: true
-draft: false
+draft: true
 title: Migrate to Hugo from Jekyll
 resources:
 - name: featuredImage
