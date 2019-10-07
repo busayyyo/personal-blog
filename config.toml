@@ -2,6 +2,8 @@ baseURL = "https://busayo.xyz/"
 languageCode = "en-us"
 title = "Busayo Oyewole - Design, Code and Words"
 theme = "aether"
+
+[params]
 brand = "Busayo Oyewole"
 description = "Design, code and words"
 homeimg = "https://res.cloudinary.com/busayyyo/image/upload/v1570480123/blog/blog_logo.svg"
