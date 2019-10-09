@@ -1,6 +1,6 @@
 baseURL = "https://busayo.xyz/"
 languageCode = "en-us"
-title = "Busayo Oyewole - Design, Code and Words"
+title = "Busayo"
 theme = "aether"
 
 [params]
