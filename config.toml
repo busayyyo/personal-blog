@@ -1,10 +1,10 @@
 baseURL = "https://busayo.xyz/"
 languageCode = "en-us"
-title = "Busayo"
+title = "test"
 theme = "aether"
 
 [params]
-brand = "Busayo Oyewole"
+brand = "test"
 description = "Design, code and words"
 homeimg = "https://res.cloudinary.com/busayyyo/image/upload/v1570483412/blog/green-pattern-surface-131683.jpg"
 bgimg = "https://res.cloudinary.com/busayyyo/image/upload/v1570483607/blog/art-background-close-up-1939485.jpg"
