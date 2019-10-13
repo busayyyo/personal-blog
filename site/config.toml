@@ -7,7 +7,7 @@ paginate = 3
 theme = "aether"
 
 [params]
-brand = "Busayo Oyewole"
+brand = "Busayo"
 description = "Design, code and words"
 homeimg = "https://res.cloudinary.com/busayyyo/image/upload/v1570483412/blog/green-pattern-surface-131683.jpg"
 bgimg = "https://res.cloudinary.com/busayyyo/image/upload/v1570484496/blog/blog_bg.png"
