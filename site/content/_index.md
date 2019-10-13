@@ -1,6 +1,7 @@
 ---
-title: U_XYZ
-subtitle: let's see if this changes anything.
+title: UX_YZ
+subtitle: "let's see if this changes anything."
+description: "Design, words and code"
 image: /img/astro-astronomy-background-956999.jpg
 blurb:
   heading: God knows i'm tired of this shit
@@ -14,4 +15,3 @@ values:
   heading: Another heading are you freaking
   text: 'fuck, fuck, fuck'
 ---
-
