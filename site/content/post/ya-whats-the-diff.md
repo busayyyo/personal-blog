@@ -2,9 +2,10 @@
 title: "How to use gif as a background image"
 date: 2019-10-13T06:38:23.554Z
 description: "Did you know you could use gifs as background image in css?"
+draft: false
 resources:
 - name: featuredImage
-  src: "content/post/GIF.png"
+  src: "content/post/mdd-iphone0.jpg"
   params:
     description: "feature image"
 ---
