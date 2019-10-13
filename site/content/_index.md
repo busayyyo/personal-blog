@@ -1,5 +1,5 @@
 ---
-title: U_XYZ
+title: UX_YZ
 subtitle: let's see if this changes anything.
 image: /img/astro-astronomy-background-956999.jpg
 blurb:
