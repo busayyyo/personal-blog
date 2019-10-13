@@ -4,7 +4,7 @@ date: 2019-10-13T06:38:23.554Z
 description: Did you know you could use gifs as background image in css?
 resources:
 - name: featuredImage
-  src: "GIF.png"
+  src: "site/content/post/GIF.png"
 ---
 Gifs (however you may pronounce it) are fun animated pictures or videos extracts. They can make your website come alive if used well and can be an alternative to writing CSS animations. And the best part of all, they are simple to use! All it takes is a few lines of code:
 
