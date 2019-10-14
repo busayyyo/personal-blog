@@ -9,6 +9,6 @@ theme = "aether"
 [params]
 brand = "Busayo Oyewole"
 description = "Design, code and words"
-homeimg = "https://res.cloudinary.com/busayyyo/image/upload/v1570483412/blog/green-pattern-surface-131683.jpg"
+homeimg = "https://res.cloudinary.com/busayyyo/image/upload/v1571083557/blog/christmas-1911637_1920.jpg"
 bgimg = "https://res.cloudinary.com/busayyyo/image/upload/v1570484496/blog/blog_bg.png"
 rssinmenu = true
