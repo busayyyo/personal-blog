@@ -31,13 +31,13 @@ For each feature below, the first line is the markdown and the second line is th
 ## Code (Supports many programming languages and formats)
 
 ````md
-```javascript
+​```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
 ````
 
-```javascript
+​```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
