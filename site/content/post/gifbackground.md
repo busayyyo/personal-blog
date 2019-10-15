@@ -5,7 +5,7 @@ description: "Did you know you could use gifs as background image in css?"
 draft: false
 resources:
 - name: featuredImage
-  src: "animation.gif"
+  src: "GIF.png"
   params:
     description: "feature image"
 ---
