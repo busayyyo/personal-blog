@@ -1,6 +1,6 @@
 ---
-title: "Killer Shell"
-description: "Description of the post (displayed in the post's card)"
+title: "Killer Shell - Simulating mock exams for programmers"
+description: "designing and building a mock exam website for programmers"
 categories: ["Projects"]
 dropCap: true
 displayInMenu: false
@@ -9,11 +9,7 @@ draft: false
 resources:
 - name: featuredImage  
 src: "/post/images/killersh.png"
-params:    
-description: "Description for the featured image, used as the alt text"
 ---
-
-<h2>Simulating mock exams for programmers</h2>
 
 ![portfolio image](/post/images/killersh.png)
 
