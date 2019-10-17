@@ -1,5 +1,5 @@
 ---
-title: "The title of your post"
+title: "Killer Shell"
 description: "Description of the post (displayed in the post's card)"
 categories: ["Projects"]
 dropCap: true
@@ -8,16 +8,18 @@ displayInList: true
 draft: false
 resources:
 - name: featuredImage  
-src: "GIF.png"
+src: "/post/images/killersh.png"
 params:    
 description: "Description for the featured image, used as the alt text"
 ---
 
-![portfolio image](post/images/killersh.png)
+<h2>Simulating mock exams for programmers</h2>
+
+![portfolio image](/post/images/killersh.png)
 
 > [View project live](https://killer.sh)
 
-**Summary:** This is a project designed for a client who wanted to simulate CKAD exam and other programming related certificates so that programmers taking these courses can have a playground before they go in for their exam.
+**Summary:** This is a project designed for a client who wanted to simulate CKAD exam and other programming related certificate exams so that programmers taking these courses can have a playground before they go in for their exam.
 
 **Role:** Designer and frontend developer.
 
