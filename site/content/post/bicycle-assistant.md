@@ -1,17 +1,16 @@
 ---
-title: "Bicycle Assistant"
-description: "designing a device that notifies cyclists of oncoming vehiles"
+title: "Bicycle Assistant - an traffic aid for cyclists"
+description: "Designing a device that notifies cyclists of oncoming vehiles"
 categories: ["Projects"]
 dropCap: true
 displayInMenu: false
 displayInList: true
 draft: false
 resources:
-- name: featuredImage  
+- name: killersh  
 src: "/post/images/killersh.png"
 ---
 
-# designing a device that notifies cyclists of oncoming vehicles
 
 As part requirement of my masters degree, I had to develop a physical device that solves a tangible problem in the society. At the time, I was just learning how to ride a bike and I was alarmed at the fact that bicycles didn't come with sensors that alerts you to other vehicles around - especially behind you.
 
