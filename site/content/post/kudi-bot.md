@@ -1,4 +1,3 @@
-
 ---
 title: "Kudi Bot - Designing a chatbot for financial services"
 description: "designing a device that notifies cyclists of oncoming vehiles"
@@ -9,7 +8,7 @@ displayInList: true
 draft: false
 resources:
 - name: featuredImage  
-src: "/post/images/killersh.png"
+src: "images/killersh.png"
 ---
 
 ![Portfolio](https://busayyyo.github.io/images/kudi.png)
@@ -28,24 +27,25 @@ src: "/post/images/killersh.png"
 
 **Process:** To design this application, I went through a series of steps to get the job done:
 
-1. Research - Contextual Inquiry:** Since our target audience are supposed to be conversant with chatapps, I used whatsapp as my primary medium of inquiry. There were two main objectives to this inquiry:
+1. Research - Contextual Inquiry: Since our target audience are supposed to be conversant with chatapps, I used whatsapp as my primary medium of inquiry. There were two main objectives to this inquiry:
 
 * How people relate to the idea of financial chatbot by asking questions such as:
   * How often do you go to banks?
   * Would you prefer to do your banking transactions through chats if you could?
   * If you wouldn't, why? What are your concerns?
 
-* How people communicate with bankers in real life by asking questions such as:*
+* How people communicate with bankers in real life by asking questions such as:
 
   * what do you say when you want a withdrawal?
   * How do you express to the cashier that you need to make a transfer?
 
-2. Analysis using scenarios:** Based on the data gathered, I came up with a full scale scenario in which a typical user would use the chat app based on the goals they set to achieve. Hence, there were multiple scenarios:
+2. Analysis using scenarios: Based on the data gathered, I came up with a full scale scenario in which a typical user would use the chat app based on the goals they set to achieve. Hence, there were multiple scenarios:
 
-* Onboarding scenario
-* Money transfer scenario
-* Bill payment scenario
-* Surfing through/Getting to know bot scenario
+   - Onboarding scenario
+
+   - Money transfer scenario
+   - Bill payment scenario
+   - Surfing through/Getting to know bot scenario
 
 3. Building the Bot's Persona**
 
@@ -75,6 +75,6 @@ Extract from kudi-bot on Facebook*
 
 5. Guerilla testing: Because of the small size of the team, it was flexible enough to conduct guerilla testing almost at every stage of conception with our target audience to check if our assumptions and solutions were still right.
 
-6. Outcomes and Lessons: A major insight gained during one of our testing is the realisation that users were hesitant to add their card or account details at the beginning of their interaction with the bot. We had assumed that that should be the way the onboarding process should be, but this only resulted in drop-off. Users wanted to get to know the bot before they could commit. So we iterated to allow users to have as much small talk with the bot as they want and they onld added their card or account details when they were ready to perform a transaction.
+6. Outcomes and Lessons: A major insight gained during one of our testing is the realisation that users were hesitant to add their card or account details at the beginning of their interaction with the bot. We had assumed that that should be the way the onboarding process should be, but this only resulted in drop-off. Users wanted to get to know the bot before they could commit. So we iterated to allow users to have as much small talk with the bot as they want and they only added their card or account details when they were ready to perform a transaction.
 
-Kudi bot is still being used by thousands of people daily to perform transactions. The bot was deployed on many messaging apps such as **Telegram, Facebook, Skype, Slack**, it also has a dedicated app of its own.
+> Kudi bot is still being used by thousands of people daily to perform transactions. The bot was deployed on many messaging apps such as **Telegram, Facebook, Skype, Slack**, it also has a dedicated app of its own.

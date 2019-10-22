@@ -7,8 +7,8 @@ displayInMenu: false
 displayInList: true
 draft: false
 resources:
-- name: featuredImage  
-src: "/post/images/killersh.png"
+- name: killersh  
+src: "images/killersh.png"
 ---
 
 ![portfolio image](/post/images/killersh.png)

@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Busayo"
 author = "Busayo Oyewole"
 canonifyurls = true
-paginate = 3
+paginate = 5
 theme = "aether"
 
 [params]
@@ -11,4 +11,4 @@ brand = "Busayo Oyewole"
 description = "Design, code and words"
 homeimg = "https://res.cloudinary.com/busayyyo/image/upload/v1571083557/blog/christmas-1911637_1920.jpg"
 bgimg = "https://res.cloudinary.com/busayyyo/image/upload/v1570484496/blog/blog_bg.png"
-rssinmenu = true
+rssinmenu = false

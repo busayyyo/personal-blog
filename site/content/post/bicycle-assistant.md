@@ -8,7 +8,7 @@ displayInList: true
 draft: false
 resources:
 - name: killersh  
-src: "/post/images/killersh.png"
+src: "images/killersh.png"
 ---
 
 
