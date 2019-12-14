@@ -6,6 +6,7 @@ homepage = "https://github.com/josephhutch/aether"
 tags = ["Blog", "Personal", "Responsive", "Minimal", "Simple", "Clean", "Modern", "Technical", "Syntax highlighting", "Google analytics", "Disqus", "Material Design"]
 features = ["Responsive", "Highlight.js", "KaTeX", "Google analytics", "Disqus"]
 min_version = "0.41"
+themesDir = "../.."
 
 [author]
 name = "Joe Hutchinson"
