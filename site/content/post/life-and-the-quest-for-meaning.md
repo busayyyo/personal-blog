@@ -1,6 +1,7 @@
 ---
 title: Life and the quest for meaning
 date: 2020-01-01T21:08:13.982Z
+categories: Musings
 description: A book review and lessons from Viktor Frankl
 image: /img/viktorfrankl.jpg
 ---

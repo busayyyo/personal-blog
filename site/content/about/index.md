@@ -9,7 +9,8 @@ draft = false
 
 ![Profile image](/about/images/profile-img.jpg)
 
-Hi there, my name is Busayo and I'm a UX and usability engineer. I have a bachelors degree in psychology and a masters degree in psychology. I design experiences, services and products with a balance of business orientation and human centered design approach. I also write frontend code and I enjoy bringing interface design to life.
+Hi there, my name is Busayo and I'm a writer and usability engineer. I have a bachelors degree in psychology and a masters degree in usability engineering. I'm interested in human centered design and innovation, literature , the psychology of choices and decisions, and the old age question of 'why the fuck are we here?'
 
-I enjoy writing - both words and code. In my free time, I serve as the managing editor at [millennial poets](https://medium.com/@millennialpoets).
+In my blog, I will be exploring design, frontend development, psychology and books that I find compelling.
 
+While you are here, check out [millennial poets](https://medium.com/@millennialpoets).
