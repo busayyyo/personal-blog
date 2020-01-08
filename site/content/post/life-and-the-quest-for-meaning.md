@@ -1,11 +1,11 @@
 ---
 title: Life and the quest for meaning
 date: 2020-01-01T21:08:13.982Z
-categories: Musings
+categories: ["Musings"]
 description: A book review and lessons from Viktor Frankl
 image: /img/viktorfrankl.jpg
 ---
-![Man's search for meaning book cover](/img/viktorfrankl.jpg "Book cover")
+![Man's search for meaning book cover](/img/viktorfrankl.jpg "Book cover" smartfloat="left" width="250px" >)
 
 My disposition to life has always leaned towards that of existential nihilism — a school of thought that proposes that life has no intrinsic meaning or value. However, of recent, I’ve been on a path to find meaning, to make sense of the meaninglessness. This is what led me to Viktor Frankl’s book ‘Man’s search for meaning’.
 
