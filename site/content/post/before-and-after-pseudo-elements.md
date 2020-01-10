@@ -11,7 +11,7 @@ The `::before` and `::after` pseudo elements, also known as `:before` and `:afte
 
 At the advent of CSS3, the markup was changed from the one colon syntax i.e `:before` to the two colon syntax `::before` to distinguish between pseudo classes and pseudo elements (to understand the difference between pseudo classes and pseudo elements, check out this [article ](https://www.d.umn.edu/~lcarlson/csswork/selectors/pseudo_dif.html)). However, the browser understands both syntaxes. So either is valid. In this article however, I will be using the updated syntax i.e `::before` and `::after`.
 
-The `::before` and `::after` can only be activated by adding the `content` property to it, otherwise it won't work. Its default `display` is `inline`, so be aware of that while styling. 
+The `::before` and `::after` can only be activated by adding the `content` property to it, otherwise it won't work. Its default `display` is `inline`, so be aware of that while styling.
 
 ## Some Interesting Usage
 
@@ -19,24 +19,19 @@ The `::before` and `::after` can only be activated by adding the `content` prope
 
 For quotes, it's as easy as using the content values `open-quote` and `close-quote`
 
-![sample quote to markup](/img/quote-1-.png)
-
-![]()
-
-```
-<p>The best things are yet to come</p>p::before {content: open-quote;}p::after {content: close-quote;}
-```
+<p class="codepen" data-height="265" data-theme-id="default" data-default-tab="css,result" data-user="Busayyyo" data-slug-hash="QWwQrEO" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="quote using before &amp;amp; after pseudo elements">
+  <span>See the Pen <a href="https://codepen.io/Busayyyo/pen/QWwQrEO">
+  quote using before &amp; after pseudo elements</a> by Busayo (<a href="https://codepen.io/Busayyyo">@Busayyyo</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 and voila! we have something like this: with no need to use javascript to include it for dynamic data nor manually insert it in the markup.
 
 **2. Icons**
 
-![](/img/points.png)
-
-There are times when you need insert an icon and you don't want it showing up in the markup. You can just do it by using the ::before and ::after pseudo classes. 
+There are times when you need insert an icon and you don't want it showing up in the markup. You can just do it by using the ::before and ::after pseudo classes.
 
 **3. Titles**
 
-![](/img/title.png)
-
-Before and after pseudo elements can be used to style a title such as the one above. Instead of insert span or div before and after the heading, the pseudo elements can be used to achieve the same result.
+Titles have really interesting usage with different visual designs out there, I've seen before and after pseudo elements used to emphasise or just style some visual elements. Here is an example.
