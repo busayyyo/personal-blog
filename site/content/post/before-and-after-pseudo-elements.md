@@ -21,6 +21,8 @@ For quotes, it's as easy as using the content values `open-quote` and `close-quo
 
 ![sample quote to markup](/img/quote-1-.png)
 
+![]()
+
 ```
 <p>The best things are yet to come</p>p::before {content: open-quote;}p::after {content: close-quote;}
 ```
@@ -29,8 +31,12 @@ and voila! we have something like this: with no need to use javascript to includ
 
 **2. Icons**
 
+![](/img/points.png)
+
 There are times when you need insert an icon and you don't want it showing up in the markup. You can just do it by using the ::before and ::after pseudo classes. 
 
 **3. Titles**
+
+![](/img/title.png)
 
 Titles have really interesting usage with different visual designs out there, I've seen before and after pseudo elements used to emphasise or just style some visual elements. Here is an example.
