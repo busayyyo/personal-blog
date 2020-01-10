@@ -3,7 +3,7 @@ title: Before and After Pseudo Elements
 date: 2020-01-08T13:08:32.668Z
 description: Some interesting use cases
 ---
-Before now, I never really understood the exact context the `::before` and `::after` pseudo elements could be useful. It just felt like it was a fancy piece of CSS that you may never use but you should be aware of. Well, that was before I came across a few visual design styles that didn't have a traditional markup to them. It was like seeing a pretty thing without a skeleton! I inspected these pretty skeletons of course, and  lo and behold, the `::before` and `::after` pseudo elements were used!
+Before now, I never really understood the exact context the `::before` and `::after` pseudo elements could be useful. It just felt like it was some fancy piece of CSS that you may never use but you should be aware of. Well, that was before I came across a few visual design styles that didn't have a traditional markup to them. It was like seeing a pretty thing without a skeleton! I inspected these pretty skeletons of course, and  lo and behold, the `::before` and `::after` pseudo elements were used!
 
 ## A little note about  ::before and ::after
 
