@@ -19,7 +19,7 @@ The `::before` and `::after` can only be activated by adding the `content` prope
 
 For quotes, it's as easy as using the content values `open-quote` and `close-quote`
 
-![sample quote to markup](/img/quote.png)
+![sample quote to markup](/img/quote-1-.png)
 
 ```
 <p>The best things are yet to come</p>p::before {content: open-quote;}p::after {content: close-quote;}
