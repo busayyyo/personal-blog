@@ -39,4 +39,4 @@ There are times when you need insert an icon and you don't want it showing up in
 
 ![](/img/title.png)
 
-Titles have really interesting usage with different visual designs out there, I've seen before and after pseudo elements used to emphasise or just style some visual elements. Here is an example.
+Before and after pseudo elements can be used to style a title such as the one above. Instead of insert span or div before and after the heading, the pseudo elements can be used to achieve the same result.
