@@ -15,41 +15,56 @@ Imagine there's a part of your company's web app you've recently redesigned to i
 
 Here's how:
 
-**0. Check branch:** Shows you the current branch
+**1. Clone repository:**
 
-`git branch`
+`git clone https://git-repo`
 
-**1. Pull:** The first thing you want to do is get the current state of the web app into your local computer. 
+**2. Check and maybe switch branch:** Shows you the current branch
 
-`git pull remote`
+`git branch # shows you the current`
+`git checkout develop # switch`
 
-**2. Branch:** You want to create a branch for it. Think of it like creating your own playground, where if you mess up, it's only your own mess and you have time to clean it up. Branching is essential to working collaboratively with git. You have to remember to do  this.
+**3. Pull:** The first thing you want to do is get the current state of the web app into your local computer. 
+
+`git pull origin develop`
+
+You should always pull to check for new changes.
+
+**4. Branch:** You want to create a branch for it. Think of it like creating your own playground, where if you mess up, it's only your own mess and you have time to clean it up. Branching is essential to working collaboratively with git. You have to remember to do  this.
 
 `git branch playground`
+`git checkout playground`
 
-**3. Status:** You can check the status of your branch by typing git status. Status shows you the files that have been changed but not yet committed.
+The new branch is a copy of branch develop. Now you do your changes.
+
+**5. Status:** You can check the status of your branch by typing git status. Status shows you the files that have been changed but not yet committed.
 
 `git status`
 
-**4. Add:** After you must have made the changes in a file, you can add it. Adding makes the git begin to track the changes you make to that file.
+**6. Add:** After you must have made the changes in a file, you can add it. Adding makes the git begin to track the changes you make to that file.
 
 `git add <filename>`
 
-**5. Commit:** Commit is making git aware of your changes
+`git add .`
+
+**7. Commit:** Commit is making git aware of your changes
 
 `git commit -m "adds instruction snippet to web page"`
 
-**6. Log:** Shows you the history of all commits in the current branch
+**8. Log:** Shows you the history of all commits in the current branch
 
 `git log`
 
-**7. Merge:** Merge your branch with the main one.
+**9. Push:** Makes your code live with the repository.
 
-`git merge instruction snippet`
+`git push origin playground`
 
-**8. Push:** Makes your code live with the repository.
+Now your branch is saved in the remote repository.
 
-`git push origin master`
+**10. Merge:** Now you would create a merge request from playground into develop branch in Github or which repository your company uses. Or you could merge locally yourself:
+
+`git checkout develop`
+`git merge playground`
 
 ## Conclusion
 
