@@ -65,7 +65,7 @@ A little side note, the . after the add command stands for directory. So in esse
 
 `git commit -m "changes button color to red"`
 
-`It's good practise to commit changes as often as you can. You can break your commits into fixes. For example, if your tasks are comprised of 3 major fixes, it's best to commit after completing each one. That way, you can roll back changes`
+It's good practise to commit changes as often as you can. You can break your commits into fixes. For example, if your tasks are comprised of 3 major fixes, it's best to commit after completing each one. That way, you can roll back changes
 
 **8. Log:** Logging is a useful practice for keeping track of your commits. It shows you the history of all commits in your current branch. Every now and then, you may want to see the log of all the commits you have made or your teammates made to the develop branch (yes, you will see that too, since your branch is a clone of the develop branch). To do that it's as simple as typing: 
 
