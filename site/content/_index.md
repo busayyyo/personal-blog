@@ -1,4 +1,4 @@
 ---
-title: User_xyz
-description: "Design, words and code"
+title: Busayo_xyz
+description: "In pursuit of self and knowledge"
 ---
