@@ -8,7 +8,7 @@ David is a good guy. You would know this, because he tells you so.
 
 He beats his chest and says he's unlike Jackson, the arrogant ass. Unlike Tim, the pompous fool.
 
-He reels you in with a warm smile and throws you back in with a smirk on his face.
+He reels you in with a warm smile and throws you back in with a smug smirk.
 
 'I'm not trying to be an ass here, that was a slip,' he would say with a furrow in his brows, his left hand digging a pointed stick in your flesh to pick you back up - but not before he has demanded gratitude for his would-be benevolent act.
 
