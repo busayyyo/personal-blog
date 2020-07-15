@@ -13,7 +13,7 @@ Hi there, my name is Busayo and I'm on a pursuit of knowledge. I know some thing
 
 I have a Bsc in Psychology and Msc in Usability engineering. I work as a UX designer. 
 
-Right now I'm fascinated about topics such as innovation in developing countries, existentialism and the psychology of fear.#
+Right now I'm fascinated about topics such as innovation in developing countries, existentialism and the psychology of fear.
 
 I love a well written book and I could drown in poetry. I curate poetry from Millennials around the world at [MillennialPoets](https://medium.com/millennial-poets)
 
