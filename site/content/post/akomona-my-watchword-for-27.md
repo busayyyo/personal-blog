@@ -9,7 +9,7 @@ On new year's eve we would go to church and pray to receive a new watchword for 
 
 Waking up a day into my 27th year, I couldn't stop thinking of my akomona. What is my watchword? What piece of writing could get me through this 27th year, so dangerously close to 30. What is a short sweet mantra I could have pasted on a wall and could recall for every disappointment that was bound to come my way in 27? What affirmations could hold firm a girl in her late 20's against the strong sway of societal expectations? Who would write me one? Cos lord knows, I need one.
 
-27 feels different from all the previous ages combined. I could tell in the way my mother wished me happy birthday, asking what was next now, subtly and not so subtly hinting at the next logical choice for women in their late twenties - the bliss of marital life. I could tell by the simple arithmetic of 30 - 27, the answer so less, yet so dangerously weighty than 30 - 25. At 25, anything seemed possible; at 27, anything is possible _but_ within a time limit. Of course 27 is objectively young if the arithmetic is done with a different set of numbers, say, 85 - 27, assuming one would live a relatively long life barring illnesses and random accidents. 
+27 feels different from all the previous ages combined. I could tell in the way my mother wished me happy birthday, asking what was next now, subtly and not so subtly hinting at the next logical choice for women in their late twenties - the bliss of marital life. I could tell by the simple arithmetic of 30 - 27; the result so less than, yet so dangerously weightier than 30 - 25. At 25, anything seemed possible; at 27, anything is possible _but_ within a time limit. Of course 27 is objectively young if the arithmetic is done with a different set of numbers, say, 85 - 27, assuming one would live a relatively long life barring illnesses and random accidents. 
 
 However, this arithmetic objectivity does not really apply to women. Somehow, we've had it ingrained in us that the prime of our lives simply ended at 30. It's a collective psyche of burden, in which we only have 12 years of youthful freedom if we are lucky, and at 30 we must have incurred upon ourselves the responsibility of taking care of a husband and children. To not adhere to this script is to be a rebel. 
 
@@ -23,4 +23,4 @@ At a Malcom X (another rebel) weekend address at Harvard in 1982, Audre Lord des
 
 So here's my Audre Lorde inspired akomona for my 27th year:  **Fuck the scripts, fuck the damn scripts. I will write my own story.**
 
-****
+- - -
