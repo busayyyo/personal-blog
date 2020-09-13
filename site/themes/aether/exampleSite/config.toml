@@ -8,4 +8,3 @@ theme = "aether"
 [params]
 brand = "aether"
 description = "aether Hugo theme for blogs"
-bgimg = "img/ignasi_pattern_s.png"
