@@ -18,7 +18,9 @@ My disposition to life has always leaned towards that of existential nihilism �
 
 ## Dr. Frankl and his approach to meaning
 
-Viktor Frankl was an Austrian neurologist and psychiatrist who spent 3 years at different concentration camps during the second world war, including Auschwitz. If there was anyone who understood suffering and its effect on peoples’ psyche, it was Dr. Frankl.
+Viktor Frankl was an Austrian neurologist and psychiatrist who spent 3 years at different concentration camps during the second world war, including Auschwitz.
+
+If there was anyone who understood suffering and its effect on peoples’ psyche, it was Dr. Frankl.
 
 Man’s search for meaning is a psychological memoir of a prisoner of war. It’s an attempt to make sense of the suffering witnessed and endured at the concentration camp. But even Dr. Frankl couldn’t accurately do justice to that. There was no sense in the killings, the starvation, the torture and many unimaginable things that went on at Auschwitz and other internment camps.
 
