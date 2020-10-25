@@ -16,9 +16,9 @@ description: Imagine there’s a part of your company’s web app you’ve recen
   make these changes and work collaboratively with your teammates without
   messing things up for anyone involved?
 ---
+There have been so many debates on whether a designer should learn how to code - this is not one of them. 
 
-
-There have been so many debates on whether a designer should learn how to code - this is not one of them. However, there are many times within a team, that a designer may be required to provide developers assets they need or maybe even write a snippet of CSS. As digital teams get more diverse and roles overlap, working collaboratively becomes essential. One tool that makes this collaborative experience run smoothly is git. Learning how to use git efficiently can be a distinctive skill that will improve your efficiency and relationships with the developers on your team. And you don’t even need to know everything about git to get to this level of efficiency.
+However, there are many times within a team, that a designer may be required to provide developers assets they need or maybe even write a snippet of CSS. As digital teams get more diverse and roles overlap, working collaboratively becomes essential. One tool that makes this collaborative experience run smoothly is git. Learning how to use git efficiently can be a distinctive skill that will improve your efficiency and relationships with the developers on your team. And you don’t even need to know everything about git to get to this level of efficiency.
 
 ## A little note on git
 
