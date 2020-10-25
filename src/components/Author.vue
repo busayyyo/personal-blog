@@ -59,7 +59,7 @@ export default {
 		margin-top: -.5em;
 		a {
 			margin: 0 .5em;
-			color: #FE8D00;
+			color: #FCD41E;
 		}
 	}
 }
