@@ -13,7 +13,9 @@ description: I find myself asking ‘what would Jessica Pearson do?’, ‘how w
   twice as hard, and screamed or muffled your voice for far too long to be
   heard.
 ---
-I don’t know if it’s on account of age now, but I notice the women in films now more than ever. You know, those women characters in films and TV shows who somehow got relegated to a back story not as important as men’s or only seen in relation to men. I now see them as full characters of their own, badass women navigating a world conjured by men and refactoring into their own fashion.
+I don’t know if it’s on account of age now, but I notice the women in films now more than ever. 
+
+You know, those women characters in films and TV shows who somehow got relegated to a back story not as important as men’s or only seen in relation to men. I now see them as full characters of their own, badass women navigating a world conjured by men and refactoring into their own fashion.
 
 When I think back now, I of Jessica Pearson in *Suits*, Wendy Rhoades in *Billions*. These are shows with premises built primarily around men and their desire for power. Men who wanted to own the world, but sprinkle a little female in there. These female characters were written as supporting roles to men; kind listening ears to their sobs or mothering figures to keep them in line. I bought these characters as they were made, that I never really noticed the arch of their development. I never saw them as extraordinary, because I was too blinded by what was going on in the men’s world. The men’s climb on the ladder seemed more important than the women for some reason. The women seemed like they were only there to make the men be better and somehow that just didn’t seem very interesting to me.
 
