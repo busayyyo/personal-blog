@@ -9,7 +9,8 @@
 
                 Say hi on twitter <a href="https://twitter.com/busayyyo">@busayyo</a>
             </div>
-            <div><img src="~@/static/images/uploads/about-img.jpg" alt="author's image"></div>
+            <div><g-image src="~/static/images/uploads/about-img.jpg" width="500"/>
+</div>
         </div>
         <div>
             <h2>Some side, but very important projects</h2>
