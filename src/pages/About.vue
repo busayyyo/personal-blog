@@ -5,7 +5,7 @@
             <div>
                 <p>Hi there, my name is Busayo - a designer, writer, reader...xyz.</p>
                   <p>
-                Lately I've been thinking of writing as a form of design or perhaps as an act of excorcism... I can't decide.
+                Lately I've been thinking of writing as a form of design or perhaps as an act of exorcism... I can't decide.
                 Anyways, I hope you find something helpful in here.. </p>
 
                 <p>Say hi on twitter <a href="https://twitter.com/busayyyo">@busayyyo</a></p>
@@ -15,7 +15,7 @@
         <div>
             <h2>Some side, but very important projects</h2>
             <ul>
-                <li>[Podcast] <a href="">The ONE question podcast</a> - I ask some impressive people just 1 question</li>
+                <li>[Podcast] <a href="https://anchor.fm/onequestion">The ONE question podcast</a> - I ask some impressive people just 1 question</li>
                 <li>[Udemy course] <a href="https://t.co/1W26wp7ykg?amp=1">A beginner's guide to figma</a> - New to Figma, definitely check it out!</li>
                 <li>[Poetry publication] <a href="https://medium.com/millennial-poets">Millennialpoets</a> - Are you a millennial, do you write or read poetry? Join us</li>
                 <li>[Iwrite] <a href="https://iwrite.today/">Iwrite</a> - I'm working on a website where anyone can take writing challenges. Join the waitlist</li>

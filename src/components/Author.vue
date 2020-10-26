@@ -14,7 +14,7 @@
 			<a href="//busayo.xyz/about">About</a>
 		</p>
 			<p class="author__links">
-			Say hi on <a href="//twitter.com/busayyyo">twitter</a>
+			<a href="//twitter.com/busayyyo">twitter</a>
 		</p>
 
 	</div>
