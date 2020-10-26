@@ -3,13 +3,14 @@
         <h1 class="post-title">About me</h1>
         <div>
             <div>
-                Hi there, my name is Busayo - a designer, writer, reader...xyz
-                Lately I view writing as a form of design or an act of excorcism. I can't decide.
-                I hope you find something in here helpful..
+                <p>Hi there, my name is Busayo - a designer, writer, reader...xyz</p>
+                
+                <p>Lately I've been thinking of writing as a form of design or perhaps as an act of excorcism... I can't decide.</p>
+                <p>I hope you find something in here helpful..</p>
 
-                Say hi on twitter <a href="https://twitter.com/busayyyo">@busayyo</a>
+                <p>Say hi on twitter <a href="https://twitter.com/busayyyo">@busayyo</a></p>
             </div>
-            <div><g-image src="~/static/images/uploads/about-img.jpg" width="500"/>
+            <div><g-image src="~/assets/images/about-img.jpg" width="500"/>
 </div>
         </div>
         <div>
