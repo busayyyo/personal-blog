@@ -11,7 +11,7 @@
 		</p>
 
 		<p class="author__links">
-			<a href="//twitter.com/busayyyo">@busayyyo</a>
+			<a href="//busayo.xyz/about">About</a> <a href="//twitter.com/busayyyo">@busayyyo</a>
 		</p>
 
 	</div>
