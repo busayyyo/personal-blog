@@ -1,17 +1,15 @@
 <template>
     <Layout :show-logo="false" class="content-box">
         <h1 class="post-title">About me</h1>
-        <div>
+        <div class="intro-box">
             <div>
-                <p>Hi there, my name is Busayo - a designer, writer, reader...xyz</p>
-                
-                <p>Lately I've been thinking of writing as a form of design or perhaps as an act of excorcism... I can't decide.</p>
-                <p>I hope you find something in here helpful..</p>
+                <p>Hi there, my name is Busayo - a designer, writer, reader...xyz.
+                Lately I've been thinking of writing as a form of design or perhaps as an act of excorcism... I can't decide.
+                Anyways, I hope you find something in helpful in here.. </p>
 
                 <p>Say hi on twitter <a href="https://twitter.com/busayyyo">@busayyo</a></p>
             </div>
-            <div><g-image src="~/assets/images/about-img.jpg" width="500"/>
-</div>
+            <div><g-image src="~/assets/images/about-img.jpg" width="500"/></div>
         </div>
         <div>
             <h2>Some side, but very important projects</h2>
@@ -109,7 +107,11 @@ export default {
 }
 
 a {
-	margin: 0 .5em;
-	color: #FDB310;
+	color: #FDB310 !important;
+}
+
+.intro-box {
+  display: flex;
+  flex-wrap: wrap;
 }
 </style>
