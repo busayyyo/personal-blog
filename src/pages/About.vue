@@ -1,15 +1,16 @@
 <template>
-    <Layout :show-logo="false" class="content-box">
+    <Layout class="content-box">
         <h1 class="post-title">About me</h1>
         <div class="intro-box">
             <div>
-                <p>Hi there, my name is Busayo - a designer, writer, reader...xyz.
+                <p>Hi there, my name is Busayo - a designer, writer, reader...xyz.</p>
+                  <p>
                 Lately I've been thinking of writing as a form of design or perhaps as an act of excorcism... I can't decide.
-                Anyways, I hope you find something in helpful in here.. </p>
+                Anyways, I hope you find something helpful in here.. </p>
 
-                <p>Say hi on twitter <a href="https://twitter.com/busayyyo">@busayyo</a></p>
+                <p>Say hi on twitter <a href="https://twitter.com/busayyyo">@busayyyo</a></p>
             </div>
-            <div><g-image src="~/assets/images/about-img.jpg" width="500"/></div>
+            <div><g-image src="~/assets/images/about-img.jpg"/></div>
         </div>
         <div>
             <h2>Some side, but very important projects</h2>
@@ -28,8 +29,8 @@
                 <li>[Fiction] <a href="https://medium.com/@busayomi/birds-in-flight-d740aa167a1">Birds in flight</a></li>
                 <li>[Poetry] <a href="https://medium.com/millennial-poets/the-poem-e14377693eeb">The poem</a></li>
                 <li>[Essay] <a href="https://medium.com/millennial-poets/why-poetry-matters-57c86a072c35">Why poetry matters</a></li>
-                <li>[Musing] <a href="https://medium.com/millennial-poets/o-me-o-life-1c64df6b702a"></a>O Me! O life!</li>
-                 <li>[Musing/ Article] <a href="https://medium.com/@busayomi/revamping-yourself-222229ebfae6"></a>Revamping yourself</li>
+                <li>[Musing] <a href="https://medium.com/millennial-poets/o-me-o-life-1c64df6b702a">O Me! O life!</a></li>
+                 <li>[Musing/ Article] <a href="https://medium.com/@busayomi/revamping-yourself-222229ebfae6">Revamping yourself</a></li>
                 <li>[Article] <a href="https://medium.com/@busayomi/the-fascinating-notion-of-speed-learning-4343483451e3">The Fascinating Notion of Speed Learning</a></li>
                 <li>[Design article] <a href="https://medium.com/@busayomi/making-accessibility-the-default-f8a9f1d8e259">Making Accessibility the Default</a></li>
                 <li>[Design article] <a href="https://uxdesign.cc/how-visually-impaired-people-navigate-the-web-7f9eab9d9c37">How visually impaired people navigate the web</a></li>
