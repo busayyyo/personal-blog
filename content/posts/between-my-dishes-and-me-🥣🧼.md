@@ -17,9 +17,9 @@ I hated any forms of house chores, and of all house chores, doing dishes ranked 
 
 27 year old me feels way more mature about it. I can tolerate it in the sense that I like the warmness of the water on my hands, the frothing lather, the plates going from the speckled color of oil to sparkling clean; another thing off my to-do list.
 
-Some days I do my dishes immediately after a meal, some days I leave it in the sink, letting it soak till the next meal. Somedays they pile up over two meals, or maybe three; as do my anxieties and depression.
+Some days I do my dishes immediately after a meal, some days I leave it in the sink, letting it soak till the next meal. On other days, they pile up over two meals, or maybe three; as do my anxieties and depression.
 
-I have a feeling my dishwashing habit is now very symbiotic to my mental state. Two unrelated organisms orbiting each other's space, relying on the other for wholeness. When everything is in order, I tend to do my dishes immediately after a meal. When things are less than ideal, unbalanced - at work, extracurriculars, or in the way my body moves in this world - the plates fester.
+I'm not a medicine man, but I have this deep sense that my dishwashing habit is now very symbiotic to my mental state. Two unrelated organisms orbiting each other's space, relying on the other for wholeness. When everything is in order, I tend to do my dishes immediately after a meal. When things are less than ideal, unbalanced - at work, extracurriculars, or in the way my body moves in this world - the plates fester.
 
 I look at them in the sink and I can't help them, just as I can't help me at that moment. So I lie down, or take a walk or simply breathe, waiting for me to come back to me. 
 
