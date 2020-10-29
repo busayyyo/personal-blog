@@ -11,7 +11,9 @@ description: I have a feeling my dishwashing habit is now very symbiotic to my
   work, extracurriculars, or in the way my body moves in this world - the plates
   fester..
 ---
-As a child, there was nothing I loathed more than doing dishes. I hated any forms of house chores, and of all house chores, doing dishes ranked the worst. I sought ways to get out of it and I particularly hated it when we had visitors which meant that the dishes stacked higher. To ten-year-old me, there was no greater punishment.
+As a child, there was nothing I loathed more than doing dishes. 
+
+I hated any forms of house chores, and of all house chores, doing dishes ranked the worst. I sought ways to get out of it and I particularly hated it when we had visitors which meant that the dishes stacked higher. To ten-year-old me, there was no greater punishment.
 
 27 year old me feels way more mature about it. I can tolerate it in the sense that I like the warmness of the water on my hands, the frothing lather, the plates going from the speckled color of oil to sparkling clean; another thing off my to-do list.
 
