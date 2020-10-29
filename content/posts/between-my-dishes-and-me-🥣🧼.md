@@ -4,12 +4,12 @@ date: 2020-10-29T10:48:33.680Z
 published: true
 tags:
   - Musings
-description: I have a feeling my dishwashing habit is now very symbiotic to my
-  mental state. Two unrelated organisms orbiting each other's space, relying on
-  the other for wholeness. When everything is in order, I tend to do my dishes
-  immediately after a meal. When things are less than ideal, unbalanced - at
-  work, extracurriculars, or in the way my body moves in this world - the plates
-  fester..
+description: I'm not a medicine man, but I have this deep sense that my
+  dishwashing habit is now very symbiotic to my mental state. Two unrelated
+  organisms orbiting each other's space, relying on the other for wholeness.
+  When everything is in order, I tend to do my dishes immediately after a meal.
+  When things are less than ideal, unbalanced - at work, extracurriculars, or in
+  the way my body moves in this world - the plates fester..
 ---
 As a child, there was nothing I loathed more than doing dishes. 
 
