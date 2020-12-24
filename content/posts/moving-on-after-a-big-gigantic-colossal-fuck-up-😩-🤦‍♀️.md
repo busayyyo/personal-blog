@@ -28,6 +28,6 @@ James Baldwin. Yes, you read James Baldwin who says:
 
 So in the aftermath of my big mess, I've been collecting stories. From books, the internet, people close to me, trying to gather as many stories of fuck-ups as I can. Some don't rate as high as my big fuck-up, others make mine look like a joke. 
 
-But in reading all these stories, I've begun to feel the fabric of my dignity begin to mend. I made a terrible lapse in judgment, one for which I'm terribly sorry.
+In reading all these stories, I've begun to feel the fabric of my dignity begin to mend. I made a terrible lapse in judgment, one for which I'm terribly sorry.
 
- I fucked up. But fucking up is a human condition, I'm reading.
+ I fucked up, but fucking up is a human condition, I'm reading.
