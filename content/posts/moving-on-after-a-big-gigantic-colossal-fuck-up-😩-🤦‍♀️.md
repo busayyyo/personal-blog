@@ -16,9 +16,9 @@ It's the lowest thing I've ever done, that recovering from this colossal, irreve
 
 I find it hard to forgive myself. I want to blame it on alcohol, but I wasn't drunk. I wanna kick my best friend for not reigning me in when this terrible idea occurred to me. I hate my brain for even coming up with such a fundamentally odd idea and my body, for going along with it.
 
-You get the gist, I'm irreversibly fucked by this error in judgment. And right now, I keep wondering will I ever get over this? I ask myself, why did you go there? I know the answer to that: I wasn't thinking. I wasn't fucking thinking, but now I can't stop thinking about this.
+You get the gist, I'm irreversibly fucked by this error in judgment. I keep wondering if I will ever get over this. I ask myself, why did you go there? I know the answer to that: I wasn't thinking. I wasn't fucking thinking, but now I can't stop thinking about this.
 
-I'm ashamed that I was capable of stooping this low - I didn't know I had it in me. I'm sad that this weird, out of character behaviour would be the last memory he (my ex, who I cherished) would ever have of me. I'm sad, terribly sad, for the dent this has made on my sense of dignity.
+I'm ashamed that I was capable of stooping this low - I didn't know I had it in me. I'm sad that this weird, out of character behaviour would be the last memory he (my ex, who I cherished) would ever have of me. I'm sad, terribly sad, for the dent this has made on my sense of self and dignity.
 
 So how does one move on after a big, gigantic, terrible, colossal fuck up such as this?
 
