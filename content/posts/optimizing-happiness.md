@@ -1,5 +1,5 @@
 ---
-title: Optimizing happiness
+title: Optimizing happiness 🧨💜
 date: 2022-01-29T11:26:54.434Z
 published: true
 tags:
