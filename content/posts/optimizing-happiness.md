@@ -11,7 +11,7 @@ description: It's not going to always be awful, I wanna promise, but I can't
 ---
 When you go through the lows, as we inevitably must go through, either by loss, the pain of rejection, things not going the way we imagined, or the doom of living made weightier by shitty weather; happiness slowly drips to a stop. Or it feels like that. It feels like the well of happiness is dry, and there would never be joy again. You could become skeptical, and think or perhaps realise that whatever happiness there is, is always short-lived - a pit stop between now and the next crisis.\
 \
-But I've been thinking lately that maybe happiness isn't drops of water in a dry well. Maybe happiness instead is the big blue sky that you sometimes can't see beneath the grey clouds. But it's right there. It has to be right there. 
+But I've been thinking lately that maybe happiness isn't drops of water in a dry well. Maybe happiness instead, is the big blue sky that you sometimes can't see beneath the grey clouds. But it's right there. It has to be right there. 
 
 So, I'm learning new tricks for the days when the clouds are pitch dark, you know, to make the clouds pass by quicker. I call it "optimising happiness".\
 \
